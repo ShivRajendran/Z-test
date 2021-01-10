@@ -1,5 +1,5 @@
 #sample data sets
-df<-read.csv('O:\\HR Department\\HR Staff\\Shiv Rajendran\\Metrics for 2018\\2018 Employee data.csv')
+df<-read.csv('......\\2018 Employee data.csv')
 
 #import packages and view dataset
 str(df)
